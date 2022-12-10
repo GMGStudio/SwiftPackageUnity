@@ -1,6 +1,9 @@
 # NativeiOSCode
 
-A description of this package.
+Just an easy example for a Swift Package and what terminal commands you have to run to create a Framework an call it from a Unity Projet. For more information checkout our [YouTube Channel](https://www.youtube.com/@GMGStudioOfficial)
+
+## Environment
+Tested with Xcode 14.1 and Unity 2021.3.15f1
 
 ## Create XcodeProject
 
